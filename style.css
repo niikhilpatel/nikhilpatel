@@ -63,6 +63,39 @@ li::before {
     content: "- ";
 }
 
+
+/*   Contact form  */
+.contact__form{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    margin-right: 4rem;
+}
+
+.form__name{
+    display: flex;
+    gap: 1.2rem;
+}
+
+.contact__form input[type="text"]{
+    width: 50%;
+}
+
+input,textarea{
+    width: 100%;
+    padding: 1rem;
+    background: #1f2641;
+    color: #fff;
+}
+
+.contact__form .btn{
+    width: max-content;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+
+
 @media (prefers-color-scheme: dark) {
     body, input, textarea {
         background-color: #1e1e1e;
