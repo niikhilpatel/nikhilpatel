@@ -1,4 +1,4 @@
-document.write('You\'re always free to reach out to me at my email address: nikhilpatel26150@gmail.com')
+document.write('You\'re always free to reach out to me at my email address : ')
 
 
 
