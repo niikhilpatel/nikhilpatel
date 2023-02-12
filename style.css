@@ -130,3 +130,16 @@ input,textarea{
 .hcaptcha-disclaimer {
     font-size: 16px;
 }
+
+
+/* domain_name page css */
+
+.domain_div_box {
+    border: 2px solid rgb(207, 202, 202);
+    background-color: rgb(114, 103, 103);
+}
+
+.domain_div_box2 {
+    /* border: 2px solid rgb(184, 6, 6); */
+    background-color: rgb(79, 77, 77);
+}
