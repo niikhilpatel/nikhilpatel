@@ -56,7 +56,7 @@ ul {
 
 /* Below css belongs to project.html files */
 ol li a {
-    color: wheat;
+    color: rgb(67, 50, 19);
 }
 
 ol li a:hover{
@@ -103,6 +103,8 @@ input,textarea{
     margin-top: 1rem;
     cursor: pointer;
 }
+
+/* footer */
 
 
 
