@@ -54,6 +54,16 @@ ul {
     margin-top: 0px;
 }
 
+/* Below css belongs to project.html files */
+ol li a {
+    color: wheat;
+}
+
+ol li a:hover{
+    color: rgb(215, 30, 61);
+}
+/* projects.html css end */
+
 p {
     margin-bottom: 9px;
 
